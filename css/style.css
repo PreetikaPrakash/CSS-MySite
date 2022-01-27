@@ -1,0 +1,204 @@
+
+.top {
+    background-color: #94B3FD;
+    padding-top:100px;
+    position:relative;
+}
+.top-cloud{
+    position:absolute;
+    right:400px;
+    top:50px;
+}
+.bottom-cloud{
+    position:absolute;
+    left:400px;
+    bottom:300px;
+}
+.middle {
+    /*98BAE7*/
+    background-color: #98BAE7;
+    height:1500px;
+}
+.middle-content{
+    /*98BAE7*/
+    background-color: #98BAE7;
+    height:250px;
+    position: relative;
+}
+.girl-image{
+    height:150px;
+    width:150px;
+    position: absolute;
+    top:35px;
+    left:420px;
+}
+.h4-class-one{
+    font-family: 'Candal', sans-serif;
+    position: absolute;
+    top:50px;
+    left:660px;
+    font-size: 30px;
+}
+.p-class-one{
+    font-family: 'Fredericka the Great', cursive;
+    position: absolute;
+    top:150px;
+    left:600px;
+    font-size: 18px;
+}
+.p-class-two{
+    font-family: 'Fredericka the Great', cursive;
+    position: absolute;
+    top:180px;
+    right:150px;
+    font-size: 18px;
+}
+.middle-content-two{
+    /*#ABC2E8*/
+    background-color: #98BAE7;
+    height:1450px;
+    position: relative;
+    padding: 2.5%;
+}
+h2{
+    font-family: 'Faster One', cursive;
+    font-size: 40px;
+}
+
+.multitasker-class{
+    height: 300px;
+    position: absolute;
+    top:200px;
+    display:block;
+    left:25px;
+    right:25px;
+    background:repeating-linear-gradient(45deg,#98BAE7 0px,#98BAE7 40px,#a1badb 40px,#a1badb 80px);
+
+}
+.multitasker{
+    font-family: 'Unica One', cursive;
+    font-size: 40px;
+    position: absolute;
+    top:100px;
+    left:50%;
+
+}
+#one-multitasker{
+    position:absolute;
+    left:250px;
+    bottom: 20px;
+}
+.coffee-class{
+    height: 300px;
+    position: absolute;
+    top:500px;
+    display:block;
+    left:25px;
+    right:25px;
+    background:repeating-linear-gradient(45deg,#98BAE7 0px,#98BAE7 40px,#a1badb 40px,#a1badb 80px);
+
+}
+.coffee{
+    font-family: 'Unica One', cursive;
+    font-size: 35px;
+    position: absolute;
+    top:100px;
+    left:20%;
+}
+
+#two-coffee{
+    position:absolute;
+    right:250px;
+    bottom: 20px;
+}
+
+.bake-class{
+    height: 300px;
+    position: absolute;
+    top:800px;
+    display:block;
+    left:25px;
+    right:25px;
+
+    background:repeating-linear-gradient(45deg,#98BAE7 0px,#98BAE7 40px,#a1badb 40px,#a1badb 80px);
+
+}
+.bake{
+    font-family: 'Unica One', cursive;
+    font-size: 40px;
+    position: absolute;
+    top:100px;
+    left:50%;
+}
+#three-bake{
+    position:absolute;
+    left:250px;
+    bottom: 20px;
+}
+.keyboard-class{
+    height: 300px;
+    position: absolute;
+    top:1100px;
+    display:block;
+    left:25px;
+    right:25px;
+
+    background:repeating-linear-gradient(45deg,#98BAE7 0px,#98BAE7 40px,#a1badb 40px,#a1badb 80px);
+
+}
+.keyboard{
+    font-family: 'Unica One', cursive;
+    font-size: 35px;
+    position: absolute;
+    top:100px;
+    left:7%;
+}
+#four-keyboard{
+    position:absolute;
+    right:250px;
+    bottom: 20px;
+}
+
+
+.bottom {
+    /*,66BFBF, a1badb*/
+    background-color: #93B5C6;
+    position:relative;
+    margin-top:250px;
+}
+
+body{
+    background-color:black;
+    margin:0;
+    text-align:center;
+}
+h1{
+    /*block element*/
+    background-color: rgb(160, 211, 167);
+    margin:0 auto;
+    font-family: 'Pacifico', cursive;    
+    font-size:5.625rem;
+    color: #66BFBF;
+}
+
+
+hr{
+    margin-top:0px;
+    background-color: rgb(160, 211, 167);
+}
+p{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 18px;
+
+}
+#copyright{
+    padding-bottom: 25px;
+}
+span{
+    /*inline element*/
+    background-color: springgreen;
+}
+sup{
+    /*another inline elements*/
+    background-color: pink;
+}
